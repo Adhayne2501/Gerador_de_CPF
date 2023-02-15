@@ -1,2 +1,8 @@
 # Gerador_de_CPF
-Gerador de CPF realizado em JAVA
+>Status do projeto: finalizado
+
+Para rodar esse projeto na sua máquina, por favor digite: 
+
+'''
+code .
+'''
